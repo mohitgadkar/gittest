@@ -1,2 +1,3 @@
 # gittest
-Changes from VScode
+
+Learning git from portal
